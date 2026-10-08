@@ -69,6 +69,8 @@ Run `/attest init`, or write `.attest.json` at the project root yourself:
 
 Like every mod, it runs with the same access to your machine as Claude Code itself.
 
+The full statement is in [PRIVACY.md](PRIVACY.md).
+
 ## Limits
 
 - Claim detection is a set of patterns over the answer's text. It is deliberately narrow: hedged, negated and future sentences are skipped, so it misses more than it flags.

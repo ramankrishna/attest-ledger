@@ -2,12 +2,18 @@
   "name": "attest-ledger",
   "displayName": "Attest",
   "icon": "./.claude-plugin/icon.svg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shows what actually ran next to what Claude said ran: checks, stale passes, and unbacked claims.",
   "author": {
     "name": "Rama Krishna Bachu"
   },
   "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/attest-ledger",
+  "repository": "https://github.com/ramankrishna/attest-ledger",
+  "documentationUrl": "https://github.com/ramankrishna/attest-ledger#readme",
+  "supportUrl": "https://github.com/ramankrishna/attest-ledger/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/attest-ledger/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/attest-ledger/blob/main/LICENSE",
   "keywords": [
     "mod",
     "verification",
