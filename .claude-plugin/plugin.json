@@ -1,10 +1,19 @@
 {
   "name": "attest-ledger",
   "displayName": "Attest",
-  "version": "0.1.0",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.1",
   "description": "Shows what actually ran next to what Claude said ran: checks, stale passes, and unbacked claims.",
-  "author": { "name": "Rama Krishna Bachu" },
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
   "license": "MIT",
-  "keywords": ["mod", "verification", "tests", "gates", "claims"],
+  "keywords": [
+    "mod",
+    "verification",
+    "tests",
+    "gates",
+    "claims"
+  ],
   "types": "./types/index.d.ts"
 }
