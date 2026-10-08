@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-mods",
+  "description": "Mods by Rama Krishna Bachu for Claude Code.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "attest-ledger",
+      "source": "./",
+      "description": "Shows what actually ran next to what Claude said ran: checks, stale passes, and unbacked claims."
+    }
+  ]
+}

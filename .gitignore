@@ -1,0 +1,4 @@
+# Type declarations and the tsconfig Claude Code writes beside a mod each time it loads it.
+.claude-plugin/types/
+tsconfig.json
+.DS_Store
